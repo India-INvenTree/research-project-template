@@ -1,0 +1,5 @@
+# private files
+
+#ignore all files and folders with the sting "private"
+*private*
+data/raw_private
