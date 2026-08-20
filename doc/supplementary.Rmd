@@ -27,17 +27,20 @@ knitr::opts_chunk$set(echo = TRUE)
 #Appendices
 other_maps_methods <-"S1"
 
+# Appendix titles
 other_maps_appendix_title<- "Appendix S1. INvenTree data spread on other base layers"
 
 #SI table numbers
-missing_biomes = "S1"
+missing_districts <- "S1"
 
 #SI table captions
 missing_districts_legend <-"Table S1. Studies with missing districts and manually assigned districts."
 
 #SI figure numbers
+rodgers_and_panwar <- "S1"
 
 #SI figure captions
+rodgers_and_panwar_legend <- "Figure S1. INvenTree data spread across biogeographic zones defined by Rodgers and Panwar"
 
 
 
@@ -54,7 +57,7 @@ missing_districts_legend <-"Table S1. Studies with missing districts and manuall
 
 Insert image here
 
-`r rodgers_and_panwar_fig_legend`
+`r rodgers_and_panwar_legend`
 
 Every appendix should begin in a new page
 
